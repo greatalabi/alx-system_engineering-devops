@@ -1,2 +1,2 @@
-#!/bin/bah
-cat\"\"(Ôo)
+#!/bin/bash
+echo '"(Ôo)'\'
